@@ -1,0 +1,4 @@
+repository "The Three Kingdoms@kaosermail@cloud"
+  path "/"
+    br "/main"
+    co "/main"
